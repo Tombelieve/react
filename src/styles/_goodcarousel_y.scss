@@ -1,0 +1,52 @@
+
+
+
+//GoodCarousl_y的样式
+
+.goodCarousel{
+     width:100%;
+     display: flex;
+     font-size:14px;
+     background:rgb(255, 255, 255);
+     overflow:auto;
+     padding-top:0.1rem;
+     padding-left:0.1rem;
+     margin-right:0.1rem;
+    .advice-group{
+        width:30%;
+        padding-right:0.18rem;
+        font-size:12px;
+        position:relative;
+        img{
+            display: block;
+            width:0.95rem;
+            height: 0.95rem;
+        }
+        .group-name{
+            width:100%;
+            margin-top:0.12rem;
+            white-space:nowrap;
+            overflow: hidden;
+            text-overflow:ellipsis;
+            color:#666;
+        }
+        .m-price{
+            margin-top:0.07rem;
+            color:#c4c4c4;
+            text-decoration:line-through;
+        }
+        .o-price{
+            margin-top:0.07rem;
+            margin-bottom:0.2rem;
+        }
+        .add-cart img{
+            position: absolute;
+             top:1.32rem;
+             right: 0.17rem;
+            z-index: 2;
+            width:0.19rem;
+            height:0.19rem;
+
+        }
+    }
+}

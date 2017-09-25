@@ -1,0 +1,94 @@
+[
+    {
+      "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/40af86a0-3c9f-4d81-b6a6-47830b5a35bf.png",
+      "source": "http://wmall.wochu.cn/h5/activityTemplate/html/activityPage.html?activityId=176",
+      "posDes": "48小时保质保价"
+      
+    },
+    {
+      "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/966277b0-a1d7-4734-b477-7b03266587b0.jpg",
+      "source": "http://wmall.wochu.cn/h5/activity/BigDraw/index.html?needToken",
+      "posDes": "充值"
+    },
+    {
+      "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/264fe64b-4fc2-4633-8222-646453fd0187.jpg",
+      "source": "http://wmall.wochu.cn/h5/activityTemplate/html/activityPagew.html?activityId=328",
+      "posDes": "双节6.8折专区"
+    },
+    {
+      "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/2dfbb8b6-af14-4321-bd62-d49435f5f25e.jpg",
+      "source": "http://wmall.wochu.cn/h5/activityTemplate/html/activityPagew.html?activityId=330",
+      "posDes": "家宴专区"
+    },
+    {
+      "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/9d81b244-5abf-4ad1-9cbc-6015cc7b25ad.jpg",
+      "source": "http://wmall.wochu.cn/h5/activityTemplate/html/activityPage.html?activityId=220",
+      "posDes": "满减"
+    },
+    {
+      "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/e2b14e95-d3d5-4901-b099-ad13c2a6367c.jpg",
+      "source": "",
+      "posDes": "邀好友-20元券"
+    },
+    {
+      "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/a79ff46b-f70d-4a79-aabc-c37a08d9cd84.png",
+      "source": "http://wmall.wochu.cn/h5/activityTemplate/html/activityPage.html?activityId=219",
+      "posDes": "攻略文字"
+    },
+    {
+      "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/d5180eba-1c35-4302-8446-a50fe9fa164c.jpg",
+      "source": "http://w.cn/h5/activityTemplate/html/activityPage.html?activityId=185",
+      "posDes": "周六会员日"
+    },
+    {
+      "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/063b61e0-856d-468c-8487-bbce555e3e1f.jpg",
+      "source": "",
+      "posDes": "自选套餐"
+    },
+    {
+      "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/66d019c3-ad39-484b-bb79-3f6e4279f58f.jpg",
+      "source": "165:中秋家宴套餐",
+      "posDes": "中秋家宴自选"
+    },
+    {
+      "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/dac20e98-dc82-46c3-be07-70332e46d860.jpg",
+      "source": "164:中秋家宴套餐",
+      "posDes": "中秋净菜套餐（3-5人）"
+    },
+    {
+      "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/4489c3a0-0b60-43b7-9672-05e0d5649fc6.jpg",
+      "source": "163:大厨推荐净菜套餐（2-3人）",
+      "posDes": "大厨推荐净菜套餐（2-3人）"
+    },
+    {
+      "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/947bb1d3-8dd9-40f6-8e03-8f7714a029c6.jpg",
+      "source": "http://wmall.wochu.cn/h5/activityTemplate/html/activityPage.html?activityId=13",
+      "posDes": "入群领好礼"
+    },
+    {
+      "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/f2c87230-b737-4824-bfd7-366fa0a596fc.png",
+      "type": "4",
+      "posDes": "劲爆团购"
+    },
+    {
+      "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/f5db8540-8a4a-44ac-8567-6aeb2e350c80.jpg",
+      "source": "http://wmall.wochu.cn/h5/groupbuy/groupList.html?",
+      "posDes": "团购入口"
+    },
+    
+    {
+      "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/c7b35ff1-226b-47d9-892f-d3458a79e6dd.jpg",
+      "source": "http://wmall.wochu.cn/h5/tg/detail.html?HID=2f73002466cdb0f15856dafe18e60e5efa6250961bd946dd412a36857953dea2&date=1506046003288",
+      "posDes": "潮香村美式原味芝士蛋糕"
+    },
+    {
+      "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/a37e337e-7fe4-473f-921e-b8a1d79f6aed.jpg",
+      "source": "http://wmall.wochu.cn/h5/tg/detail.html?HID=de98eb5a0fb69d9d80b0aff84622666e28b9f8aa9f07db88404721af4a5b6c11&date=1506046054956",
+      "posDes": "黑椒牛仔粒热销风味福利团"
+    },
+    {
+      "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/ff0415f8-41f6-43ff-9e98-9a6daea2eff0.png",
+      "source": "",
+      "posDes": "icon-推荐商品"
+    }
+]

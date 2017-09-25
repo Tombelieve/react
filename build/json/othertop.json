@@ -1,0 +1,7 @@
+[
+    {"imgUrl":"./img/needtopay@3x.png","title":"待付款"},
+    {"imgUrl":"./img/no-receive@3x.png","title":"待收货"},
+    {"imgUrl":"./img/no-comment@3x.png","title":"待评价"},
+    {"imgUrl":"./img/historyget@3x.png","title":"退货/售后"},
+    {"imgUrl":"./img/myorders@3x.png","title":"我的订单"}
+]

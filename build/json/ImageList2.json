@@ -1,0 +1,1594 @@
+[  
+     {
+    "items": [
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/c73ff3d1-1a29-487a-9163-bbc1fac92463.jpg",
+        "type": "1",
+        "source": "http://wmall.wochu.cn/h5/activityTemplate/html/activityPage.html?activityId=157",
+        "pos": 1,
+        "$$hashKey": "object:5562",
+        "posDes": "每周新菜",
+        "goodsName": ""
+      }
+    ],
+    "templateType": "4",
+    "$$hashKey": "object:5523",
+    "sortIndex": 20,
+    "sortIndexDes": "每周新菜"
+  },
+  {
+    "items": [
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/946c2deb-8f2e-43b6-9242-75466df141eb.jpg",
+        "type": "2",
+        "source": "1326220f-8f1d-4fb5-a2b9-ea94c8a7a1cb",
+        "pos": 1,
+        "$$hashKey": "object:3142",
+        "posDes": "湘西土匪猪肝",
+        "goodsName": "湘西土匪猪肝",
+        "price": 19.90,
+        "unit": "393g",
+        "marketPrice": 19.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 999
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/066a8d94-0570-4086-84b4-45adebfb6aaa.jpg",
+        "type": "2",
+        "source": "b814d13e-b0db-4326-9052-b1e41c2b2e6a",
+        "pos": 2,
+        "$$hashKey": "object:5548",
+        "posDes": "响油葱爆毛芋艿",
+        "goodsName": "响油葱爆毛芋艿",
+        "price": 13.90,
+        "unit": "484g",
+        "marketPrice": 13.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 997
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/2f87b1bf-2eed-4e83-92d6-ca5002ca10de.jpg",
+        "type": "2",
+        "source": "d7015eef-672d-4566-aebc-e7b7df8cfa1f",
+        "pos": 3,
+        "$$hashKey": "object:5602",
+        "posDes": "红烧牛腩萝卜煲",
+        "goodsName": "红烧牛腩萝卜煲",
+        "price": 29.90,
+        "unit": "535g",
+        "marketPrice": 29.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 999
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/96b09884-fd9f-486c-8b67-bedb8aaf77b8.jpg",
+        "type": "2",
+        "source": "77a1a943-4333-49b5-8000-2bb554cbb9d2",
+        "pos": 4,
+        "$$hashKey": "object:5592",
+        "posDes": "港式蜜汁海灵芝",
+        "goodsName": "港式蜜汁海灵芝",
+        "price": 19.90,
+        "unit": "402g",
+        "marketPrice": 19.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 999
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/b1ae2aba-680c-4003-8ea3-80c4a4eb788a.jpg",
+        "type": "2",
+        "source": "fb04dc38-ca1d-4074-a552-ee1a4c6f0334",
+        "pos": 5,
+        "$$hashKey": "object:3132",
+        "posDes": "阖家欢乐全家福锅仔",
+        "goodsName": "阖家欢乐全家福锅仔",
+        "price": 25.90,
+        "unit": "530g",
+        "marketPrice": 25.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 999
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/955f77c1-ce0c-4433-b01a-41ffb9936807.jpg",
+        "type": "2",
+        "source": "b1c214b9-d24a-4cb6-82b2-e37016d5be0a",
+        "pos": 6,
+        "$$hashKey": "object:9054",
+        "goodsName": "徽州乡里一品锅",
+        "posDes": "徽州乡里一品锅",
+        "price": 25.90,
+        "unit": "680g",
+        "marketPrice": 25.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 999
+      }
+    ],
+    "templateType": "13",
+    "$$hashKey": "object:5532",
+    "sortIndex": 21,
+    "sortIndexDes": "每周新菜货架"
+  },
+  {
+    "items": [
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/099bc0b7-e3e6-47e6-a8d0-e494bbf74ad9.jpg",
+        "type": "1",
+        "source": "http://wmall.wochu.cn/h5/activityTemplate/html/activityPage.html?activityId=256",
+        "pos": 1,
+        "$$hashKey": "object:983",
+        "posDes": "热销名菜",
+        "goodsName": ""
+      }
+    ],
+    "templateType": "4",
+    "$$hashKey": "object:904",
+    "sortIndex": 22,
+    "sortIndexDes": "热销名菜"
+  },
+  {
+    "items": [
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/39ea7ab5-e23d-4fba-b65a-d0b5624435e4.jpg",
+        "type": "2",
+        "source": "94f54d97-c658-43e1-8152-7763452e3278",
+        "pos": 1,
+        "$$hashKey": "object:34297",
+        "goodsName": "小米椒爱上小公鸡",
+        "posDes": "小米椒爱上小公鸡",
+        "price": 15.90,
+        "unit": "332g",
+        "marketPrice": 15.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 998
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/c8df3748-de45-4fe9-99c3-70d8c252c7db.jpg",
+        "type": "2",
+        "source": "f91bd3e3-ac40-4705-a9b1-834a0cee31d7",
+        "pos": 2,
+        "$$hashKey": "object:3096",
+        "posDes": "三杯杏鲍菇",
+        "goodsName": "三杯杏鲍菇",
+        "price": 13.90,
+        "unit": "570g",
+        "marketPrice": 13.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 999
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/39d97693-2e2f-4074-b888-540ee9394e9f.jpg",
+        "type": "2",
+        "source": "0d8e7c88-69d7-4780-bdd7-7271508c9cd1",
+        "pos": 3,
+        "$$hashKey": "object:3086",
+        "posDes": "黑椒鸡丁",
+        "goodsName": "黑椒鸡丁",
+        "price": 12.90,
+        "unit": "360g",
+        "marketPrice": 12.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 980
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/d336b6bb-390f-4a57-95d5-24553902fd5b.jpg",
+        "type": "2",
+        "source": "4184f2f3-bb4c-4f11-a568-0519bc25d34e",
+        "pos": 4,
+        "$$hashKey": "object:27057",
+        "posDes": "农家鸭血烩豆腐",
+        "goodsName": "农家鸭血烩豆腐",
+        "price": 12.90,
+        "unit": "760g",
+        "marketPrice": 12.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 33
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/9d52da06-4736-4d98-9a51-9df391dacab6.jpg",
+        "type": "2",
+        "source": "e0135b8f-2041-43c3-bc7a-835fa7d996e7",
+        "pos": 5,
+        "$$hashKey": "object:27047",
+        "posDes": "葱姜蛤蜊",
+        "goodsName": "葱姜蛤蜊",
+        "price": 18.90,
+        "unit": "555g",
+        "marketPrice": 18.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 999
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/281c2881-1736-44b7-9b14-1661ef44d514.jpg",
+        "type": "2",
+        "source": "d0f3bdb6-c548-46c6-b29a-4d0095892a39",
+        "pos": 6,
+        "$$hashKey": "object:3076",
+        "posDes": "香菇面筋煲",
+        "goodsName": "香菇面筋煲",
+        "price": 15.90,
+        "unit": "400g",
+        "marketPrice": 16.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 34
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/79bed158-57bc-42cc-ba56-b265512f5dbe.jpg",
+        "type": "2",
+        "source": "1e20ac5d-cd2c-40dd-b175-c00c283380d1",
+        "pos": 7,
+        "$$hashKey": "object:969",
+        "posDes": "蒜香鸭肫烧毛豆",
+        "goodsName": "蒜香鸭肫烧毛豆",
+        "price": 18.90,
+        "unit": "363g",
+        "marketPrice": 18.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 999
+      }
+    ],
+    "templateType": "13",
+    "$$hashKey": "object:895",
+    "sortIndex": 23,
+    "sortIndexDes": "热销名菜货架"
+  },
+  {
+    "items": [
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/adb6b079-dada-43b0-9d74-f3330b46c80d.jpg",
+        "type": "1",
+        "source": "http://wmall.wochu.cn/h5/activityTemplate/html/activityPage.html?activityId=304",
+        "pos": 1,
+        "$$hashKey": "object:40316",
+        "goodsName": "",
+        "posDes": "我厨优选"
+      }
+    ],
+    "templateType": "4",
+    "$$hashKey": "object:40299",
+    "sortIndex": 24,
+    "sortIndexDes": "我厨优选"
+  },
+  {
+    "items": [
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/17ccc212-3a0b-411b-8a89-9e5616d036c7.jpg",
+        "type": "2",
+        "source": "fe652f0d-88e7-48c2-b868-1388d5509b4a",
+        "pos": 1,
+        "$$hashKey": "object:40428",
+        "goodsName": "我厨优选乌鸡块350g",
+        "posDes": "我厨优选乌鸡块350g",
+        "price": 19.90,
+        "unit": "350g",
+        "marketPrice": 26.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 191
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/62fab262-847c-4982-b953-526f3b21851e.jpg",
+        "type": "2",
+        "source": "f5498a5d-8e59-44b6-9832-b09656cd31fa",
+        "pos": 2,
+        "$$hashKey": "object:40351",
+        "goodsName": "我厨优选崇明番茄350g",
+        "posDes": "我厨优选崇明番茄350g",
+        "price": 6.90,
+        "unit": "350g",
+        "marketPrice": 7.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 145
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/6c1f4da1-5d04-42ff-ba3b-2e27e36600e5.jpg",
+        "type": "2",
+        "source": "58663789-9e40-46fd-80d7-f4f84d6181b0",
+        "pos": 3,
+        "$$hashKey": "object:40444",
+        "goodsName": "我厨优选冰鲜黄鱼2条装（400-600g)",
+        "posDes": "我厨优选冰鲜黄鱼2条装（400-600g)",
+        "price": 29.90,
+        "unit": "400-600g",
+        "marketPrice": 36.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 997
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/2aeb4209-47c2-4ce2-9c24-c5c92b1ff094.jpg",
+        "type": "2",
+        "source": "714794a8-9eb8-4ee8-b866-b62787d7f575",
+        "pos": 4,
+        "$$hashKey": "object:40389",
+        "goodsName": "我厨优选新鲜牛腩肉500g",
+        "posDes": "我厨优选新鲜牛腩肉500g",
+        "price": 39.90,
+        "unit": "500g",
+        "marketPrice": 49.50,
+        "preSale": 0,
+        "labels": [],
+        "stock": 49
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/55d73f35-0ef1-4de7-ba05-604b6346346e.jpg",
+        "type": "2",
+        "source": "2e7ef7c4-eee6-4f67-9035-f2d7b1b1c061",
+        "pos": 5,
+        "$$hashKey": "object:40402",
+        "goodsName": "生虾仁（71/90）250g",
+        "posDes": "生虾仁（71/90）250g",
+        "price": 29.90,
+        "unit": "250g",
+        "marketPrice": 43.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 1196
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/907f6ce1-3d34-4020-9d49-ef2f853303dc.jpg",
+        "type": "2",
+        "source": "8d2568b0-5192-403d-9e06-62f2d0ac1e4b",
+        "pos": 6,
+        "$$hashKey": "object:40583",
+        "goodsName": "光明东大滩散养草鸡蛋10枚",
+        "posDes": "光明东大滩散养草鸡蛋10枚",
+        "price": 13.90,
+        "unit": "1盒",
+        "marketPrice": 16.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 717
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/c70f23bd-41a1-4a6d-bcda-b071333bcb7a.jpg",
+        "type": "2",
+        "source": "fee40d45-85a4-488f-b90d-1403d77e65f0",
+        "pos": 7,
+        "$$hashKey": "object:72571",
+        "goodsName": "我厨优选鸡翅中500g",
+        "posDes": "我厨优选鸡翅中500g",
+        "price": 29.90,
+        "unit": "500g",
+        "marketPrice": 35.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 215
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/132adac7-6c7b-477b-b075-953469079ff8.jpg",
+        "type": "2",
+        "source": "796ac6db-aaa6-4238-89c8-f2f18b585e73",
+        "pos": 8,
+        "$$hashKey": "object:40376",
+        "goodsName": "我厨优选甲鱼（500g以上）",
+        "posDes": "我厨优选甲鱼（500g以上）",
+        "price": 38.90,
+        "unit": "500g",
+        "marketPrice": 46.80,
+        "preSale": 0,
+        "labels": [],
+        "stock": 5
+      }
+    ],
+    "templateType": "13",
+    "$$hashKey": "object:40337",
+    "sortIndex": 25,
+    "sortIndexDes": "我厨优选"
+  },
+  {
+    "items": [
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/f9c1ff7b-45b5-4255-ad24-6dc8b4cd90fe.jpg",
+        "type": "3",
+        "source": "今日新品专区",
+        "pos": 1,
+        "$$hashKey": "object:8297",
+        "posDes": "今日新品专区",
+        "goodsName": ""
+      }
+    ],
+    "templateType": "4",
+    "$$hashKey": "object:8270",
+    "sortIndex": 26,
+    "sortIndexDes": "今日新品"
+  },
+  {
+    "items": [
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/1cb94727-a81e-4af6-9d94-7c73841e11e6.jpg",
+        "type": "2",
+        "source": "a2ecf51a-d269-49b4-a691-2a3e18e30c05",
+        "pos": 1,
+        "$$hashKey": "object:34709",
+        "goodsName": "草头350g",
+        "posDes": "草头350g",
+        "price": 6.50,
+        "unit": "350g",
+        "marketPrice": 7.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 999
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/cebee65d-a358-48b7-85f5-79229d6ba12a.jpg",
+        "type": "2",
+        "source": "0fe390cf-f4c3-42e6-861f-49b52e86052b",
+        "pos": 2,
+        "$$hashKey": "object:34693",
+        "goodsName": "南非柠檬2粒",
+        "posDes": "南非柠檬2粒",
+        "price": 7.50,
+        "unit": "2个",
+        "marketPrice": 9.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 999
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/4db8b36c-c0d9-48b4-9c81-fa6bc8fc0301.jpg",
+        "type": "2",
+        "source": "b324874e-a00f-49d1-a895-6fe8b8e62999",
+        "pos": 3,
+        "$$hashKey": "object:8375",
+        "posDes": "光明早软香国庆稻大米5000g",
+        "goodsName": "光明早软香国庆稻大米5000g",
+        "price": 43.80,
+        "unit": "5000g",
+        "marketPrice": 49.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 94
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/8bf9ae9f-1bc7-4bc8-9993-33ec286d3f6b.jpg",
+        "type": "2",
+        "source": "a14f53cf-62c4-4509-8ca3-eb34a40d8f09",
+        "pos": 4,
+        "$$hashKey": "object:8364",
+        "posDes": "新疆库尔勒香梨6粒装（单果95g以上）",
+        "goodsName": "新疆库尔勒香梨6粒装（单果95g以上）",
+        "price": 9.90,
+        "unit": "6粒/份",
+        "marketPrice": 12.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 176
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/5eb54f7b-d246-4803-9bed-740b14b1c429.jpg",
+        "type": "2",
+        "source": "544ee791-a48d-4d93-94d2-faaec51a2066",
+        "pos": 5,
+        "$$hashKey": "object:8353",
+        "posDes": "我厨优选崇明菱角500g",
+        "goodsName": "我厨优选崇明菱角500g",
+        "price": 8.50,
+        "unit": "500g",
+        "marketPrice": 9.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 998
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/d2079bc5-05c9-4e93-8ec8-29bc40e26d52.jpg",
+        "type": "2",
+        "source": "1939dc69-656f-4fbe-aec9-40441d48cc8b",
+        "pos": 6,
+        "$$hashKey": "object:8342",
+        "posDes": "舟山野生玉秃鱼（细鳞，2条装）300g",
+        "goodsName": "舟山野生玉秃鱼（细鳞，2条装）300g",
+        "price": 29.80,
+        "unit": "300g",
+        "marketPrice": 39.00,
+        "preSale": 0,
+        "labels": [],
+        "stock": 181
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/d0a1ab36-b751-47d5-919b-cd077a4c01dd.jpg",
+        "type": "2",
+        "source": "048ffe37-626d-4365-b230-ccc1c265d55b",
+        "pos": 7,
+        "$$hashKey": "object:8331",
+        "posDes": "四川小红李350g",
+        "goodsName": "四川小红李350g",
+        "price": 9.90,
+        "unit": "350g",
+        "marketPrice": 11.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 1000
+      }
+    ],
+    "templateType": "13",
+    "$$hashKey": "object:8280",
+    "sortIndex": 27,
+    "sortIndexDes": "今日新品"
+  },
+  {
+    "items": [
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/a9186d7e-2c6c-44d2-9e07-8d2f438177c7.jpg",
+        "type": "1",
+        "source": "http://wmall.wochu.cn/h5/activityTemplate/html/activityPage.html?activityId=158",
+        "pos": 1,
+        "$$hashKey": "object:8866",
+        "posDes": "四季鲜蔬",
+        "goodsName": ""
+      }
+    ],
+    "templateType": "4",
+    "$$hashKey": "object:8358",
+    "sortIndex": 28,
+    "sortIndexDes": "四季鲜蔬"
+  },
+  {
+    "items": [
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/5f62138d-ef3a-4408-aa29-35264a8dd9e1.jpg",
+        "type": "2",
+        "source": "fe588fe4-4df3-4914-bd2f-9e43ae9356e5",
+        "pos": 2,
+        "$$hashKey": "object:3642",
+        "goodsName": "西红柿（650g以上）",
+        "posDes": "西红柿（650g以上）",
+        "price": 5.90,
+        "unit": "650g",
+        "marketPrice": 7.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 993
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/4af7f724-c8d6-44e1-b53b-ec5401918af5.jpg",
+        "type": "2",
+        "source": "752b0f9f-0830-48db-a82b-c6da14bf96f3",
+        "pos": 3,
+        "$$hashKey": "object:8906",
+        "posDes": "优选芦笋(500g)",
+        "goodsName": "优选芦笋(500g)",
+        "price": 9.90,
+        "unit": "500g",
+        "marketPrice": 12.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 998
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/246c7aa6-b983-4479-ad31-c00a3110a91d.jpg",
+        "type": "2",
+        "source": "4668cb47-3589-4e5b-8c11-1aed24082865",
+        "pos": 4,
+        "$$hashKey": "object:8896",
+        "posDes": "带壳鲜毛豆500g",
+        "goodsName": "带壳鲜毛豆500g",
+        "price": 3.99,
+        "unit": "500粒",
+        "marketPrice": 4.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 89
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/718e0df3-9278-4333-a569-5a017a260d01.jpg",
+        "type": "2",
+        "source": "f781241a-4782-48a0-929d-6c11fb317cbd",
+        "pos": 5,
+        "$$hashKey": "object:4267",
+        "posDes": "生菜350g",
+        "goodsName": "生菜350g",
+        "price": 2.99,
+        "unit": "350g",
+        "marketPrice": 4.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 995
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/c8db2f99-d79e-4c4a-97e8-3e95c67a3b2e.jpg",
+        "type": "2",
+        "source": "26bd5c39-a17e-49cd-b314-51c43e5866bb",
+        "pos": 6,
+        "$$hashKey": "object:24306",
+        "goodsName": "小青菜350g",
+        "posDes": "小青菜350g",
+        "price": 1.99,
+        "unit": "350g",
+        "marketPrice": 3.99,
+        "preSale": 0,
+        "labels": [],
+        "stock": 986
+      }
+    ],
+    "templateType": "13",
+    "$$hashKey": "object:8367",
+    "sortIndex": 29,
+    "sortIndexDes": "四季鲜蔬货架"
+  },
+  {
+    "items": [
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/117af402-b6cd-4e7e-af46-17445a1d235a.jpg",
+        "type": "1",
+        "source": "http://wmall.wochu.cn/h5/activityTemplate/html/activityPage.html?activityId=112",
+        "pos": 1,
+        "$$hashKey": "object:8973",
+        "posDes": "时令水果",
+        "goodsName": ""
+      }
+    ],
+    "templateType": "4",
+    "$$hashKey": "object:8376",
+    "sortIndex": 30,
+    "sortIndexDes": "时令水果"
+  },
+  {
+    "items": [
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/59e3efdc-66e8-41cc-b7a3-b5afc3ede6a9.jpg",
+        "type": "2",
+        "source": "a41a26ee-68b4-4fa0-99ff-c71eb7b541be",
+        "pos": 1,
+        "$$hashKey": "object:34993",
+        "goodsName": "陕西冰糖一口柿1盒(420g以上)",
+        "posDes": "陕西冰糖一口柿1盒(420g以上)",
+        "price": 8.90,
+        "unit": "420g",
+        "marketPrice": 9.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 997
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/a54dd85d-c888-4160-9015-7550aa3ec574.jpg",
+        "type": "2",
+        "source": "1462c11d-a95e-431e-ac5b-7e43c0bb26f2",
+        "pos": 2,
+        "$$hashKey": "object:9018",
+        "posDes": "头茬超甜特级冬枣250g尝鲜价",
+        "goodsName": "头茬超甜特级冬枣250g尝鲜价",
+        "price": 9.90,
+        "unit": "250g",
+        "marketPrice": 16.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 998
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/c5914681-97a2-4795-ae0d-dc4de0516a44.jpg",
+        "type": "2",
+        "source": "a60d605c-6216-4477-877a-9647810ccfbc",
+        "pos": 3,
+        "$$hashKey": "object:9008",
+        "posDes": "越南红心火龙果2粒装(小果350g以上)",
+        "goodsName": "越南红心火龙果2粒装(小果350g以上)",
+        "price": 16.90,
+        "unit": "2粒",
+        "marketPrice": 23.90,
+        "preSale": 0,
+        "labels": [
+          {
+            "goodsGuid": "a60d605c-6216-4477-877a-9647810ccfbc",
+            "labelName": "特惠",
+            "labelUrl": "",
+            "labelType": 0,
+            "createTime": 1504856485
+          },
+          {
+            "goodsGuid": "a60d605c-6216-4477-877a-9647810ccfbc",
+            "labelName": "",
+            "labelUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/df08c638-3547-4b34-b1e6-d1bdc806479a.png",
+            "labelType": 1,
+            "createTime": 1505293330
+          }
+        ],
+        "stock": 999
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/62a02141-d151-475e-8cfd-eedcdc6f2b2e.jpg",
+        "type": "2",
+        "source": "e623a4c6-00ae-47d9-8460-61788368b619",
+        "pos": 4,
+        "$$hashKey": "object:5666",
+        "posDes": "进口香蕉6根",
+        "goodsName": "进口香蕉6根",
+        "price": 9.90,
+        "unit": "6个",
+        "marketPrice": 14.90,
+        "preSale": 0,
+        "labels": [
+          {
+            "goodsGuid": "e623a4c6-00ae-47d9-8460-61788368b619",
+            "labelName": "特惠",
+            "labelUrl": "",
+            "labelType": 0,
+            "createTime": 1505360195
+          },
+          {
+            "goodsGuid": "e623a4c6-00ae-47d9-8460-61788368b619",
+            "labelName": "",
+            "labelUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/45f2d6b1-b3b3-46d0-a0b5-6e7004f2c4a2.png",
+            "labelType": 1,
+            "createTime": 1505360228
+          }
+        ],
+        "stock": 44
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/d125b5d3-d7b1-4f2e-ad02-48fbbaeb3e97.jpg",
+        "type": "2",
+        "source": "2af338df-8198-4bfe-9f6b-99b45403d1b4",
+        "pos": 5,
+        "$$hashKey": "object:8998",
+        "posDes": "澳大利亚脐橙4粒装(单果150g以上)",
+        "goodsName": "澳大利亚脐橙4粒装(单果150g以上)",
+        "price": 15.90,
+        "unit": "4粒",
+        "marketPrice": 22.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 997
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/f12e959f-298b-49c3-a626-dc2c70ac2b8a.jpg",
+        "type": "2",
+        "source": "431f90c4-c939-4fb0-9cc0-14ebb3deca05",
+        "pos": 6,
+        "$$hashKey": "object:5676",
+        "posDes": "沪太8号葡萄500g装",
+        "goodsName": "沪太8号葡萄500g装",
+        "price": 12.90,
+        "unit": "500g",
+        "marketPrice": 14.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 999
+      }
+    ],
+    "templateType": "13",
+    "$$hashKey": "object:8530",
+    "sortIndex": 31,
+    "sortIndexDes": "时令水果货架"
+  },
+  {
+    "items": [
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/7598b279-a27d-4abd-b9c1-0ea4db195911.jpg",
+        "type": "1",
+        "source": "http://wmall.wochu.cn/h5/activityTemplate/html/activityPage.html?activityId=161",
+        "pos": 1,
+        "$$hashKey": "object:9088",
+        "posDes": "肉类专区",
+        "goodsName": ""
+      }
+    ],
+    "templateType": "4",
+    "$$hashKey": "object:8539",
+    "sortIndex": 32,
+    "sortIndexDes": "肉类专区"
+  },
+  {
+    "items": [
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/d3c8f6b2-67da-46e0-832a-db74bcf8e7bc.jpg",
+        "type": "2",
+        "source": "7dacdb3b-f94d-4ae4-9500-8618d4db0a7d",
+        "pos": 1,
+        "$$hashKey": "object:43573",
+        "goodsName": "加拿大AAA级安格斯西冷牛排200g",
+        "posDes": "加拿大AAA级安格斯西冷牛排200g",
+        "price": 59.90,
+        "unit": "200g",
+        "marketPrice": 69.00,
+        "preSale": 0,
+        "labels": [],
+        "stock": 168
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/5e08bacf-64a5-4f62-9f96-695930e4fcb3.jpg",
+        "type": "2",
+        "source": "b413e6af-8419-4ddb-aa70-22f055c579a2",
+        "pos": 4,
+        "$$hashKey": "object:5709",
+        "posDes": "爱森脚圈500g",
+        "goodsName": "爱森脚圈500g",
+        "price": 23.90,
+        "unit": "500g",
+        "marketPrice": 25.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 99
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/6c288399-6f24-4caa-80bd-00623d5f99db.jpg",
+        "type": "2",
+        "source": "7d709873-719c-4297-ba28-4c15f00eb25c",
+        "pos": 5,
+        "$$hashKey": "object:9129",
+        "posDes": "中粮家佳康大排420g",
+        "goodsName": "中粮家佳康大排420g",
+        "price": 11.90,
+        "unit": "420g",
+        "marketPrice": 27.90,
+        "preSale": 0,
+        "labels": [
+          {
+            "goodsGuid": "7d709873-719c-4297-ba28-4c15f00eb25c",
+            "labelName": "特惠",
+            "labelUrl": "",
+            "labelType": 0,
+            "createTime": 1504598470
+          },
+          {
+            "goodsGuid": "7d709873-719c-4297-ba28-4c15f00eb25c",
+            "labelName": "",
+            "labelUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/27a5eae8-3134-47af-a448-85fcf7685356.png",
+            "labelType": 1,
+            "createTime": 1504598526
+          }
+        ],
+        "stock": 454
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/2dc8b0d7-4137-4944-ba9a-32a39b1e005a.jpg",
+        "type": "2",
+        "source": "0a98eba9-8777-4dac-9db3-20f95dc01f9c",
+        "pos": 6,
+        "$$hashKey": "object:9119",
+        "posDes": "爱森筒骨450g",
+        "goodsName": "爱森筒骨450g",
+        "price": 28.80,
+        "unit": "450g",
+        "marketPrice": 32.80,
+        "preSale": 0,
+        "labels": [],
+        "stock": 100
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/f20f992c-c31c-4103-854f-ff42c94677c5.jpg",
+        "type": "2",
+        "source": "9c0fd630-4595-439e-ad28-cf4b086b4e46",
+        "pos": 7,
+        "$$hashKey": "object:9109",
+        "posDes": "中粮家佳康精肉糜320g",
+        "goodsName": "中粮家佳康精肉糜320g",
+        "price": 13.90,
+        "unit": "320g",
+        "marketPrice": 16.80,
+        "preSale": 0,
+        "labels": [],
+        "stock": 47
+      }
+    ],
+    "templateType": "13",
+    "$$hashKey": "object:8548",
+    "sortIndex": 33,
+    "sortIndexDes": "肉类专区货架"
+  },
+  {
+    "items": [
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/d96c2fc0-58a0-4278-bd45-66b151dcc5ad.jpg",
+        "type": "1",
+        "source": "http://wmall.wochu.cn/h5/activityTemplate/html/activityPage.html?activityId=163",
+        "pos": 1,
+        "$$hashKey": "object:17121",
+        "posDes": "禽蛋",
+        "goodsName": ""
+      }
+    ],
+    "templateType": "4",
+    "$$hashKey": "object:17021",
+    "sortIndex": 34,
+    "sortIndexDes": "禽蛋"
+  },
+  {
+    "items": [
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/48324153-ee99-4cda-aab1-d0342ecaacbd.jpg",
+        "type": "2",
+        "source": "5f7a0420-4ce8-44d4-a112-ca1306d9e1ff",
+        "pos": 1,
+        "$$hashKey": "object:17092",
+        "posDes": "徐鸿飞无添加营养鸡蛋10枚425g",
+        "goodsName": "徐鸿飞无添加营养鸡蛋10枚425g",
+        "price": 14.90,
+        "unit": "425g",
+        "marketPrice": 29.80,
+        "preSale": 0,
+        "labels": [
+          {
+            "goodsGuid": "5f7a0420-4ce8-44d4-a112-ca1306d9e1ff",
+            "labelName": "特惠",
+            "labelUrl": "",
+            "labelType": 0,
+            "createTime": 1505785044
+          },
+          {
+            "goodsGuid": "5f7a0420-4ce8-44d4-a112-ca1306d9e1ff",
+            "labelName": "",
+            "labelUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/b766f7f1-a04f-4e34-8180-88d65092e8dc.png",
+            "labelType": 1,
+            "createTime": 1505785069
+          }
+        ],
+        "stock": 89
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/7c80ebc9-e02a-48b4-b8e8-76c89d3a48f8.jpg",
+        "type": "2",
+        "source": "2d7e01cf-be3b-4179-a174-0a985b93ef55",
+        "pos": 2,
+        "$$hashKey": "object:17081",
+        "posDes": "泰森鸡琵琶腿500g",
+        "goodsName": "泰森鸡琵琶腿500g",
+        "price": 19.50,
+        "unit": "500g",
+        "marketPrice": 25.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 767
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/c9d9c65c-f7a1-4458-bcc4-94e4bad696ad.jpg",
+        "type": "2",
+        "source": "d978aa39-c1b7-454f-9c48-798d29147940",
+        "pos": 3,
+        "$$hashKey": "object:35143",
+        "goodsName": "泰森雪花鸡柳150g",
+        "posDes": "泰森雪花鸡柳150g",
+        "price": 15.90,
+        "unit": "150g",
+        "marketPrice": 29.00,
+        "preSale": 0,
+        "labels": [],
+        "stock": 284
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/94ee3446-8ca7-433d-86dc-ccaef31e84e8.jpg",
+        "type": "2",
+        "source": "72bd3cc7-3dcd-4287-8a3d-c03d5665feb9",
+        "pos": 4,
+        "$$hashKey": "object:17059",
+        "posDes": "鸿轩农业土鸡蛋10枚425g",
+        "goodsName": "鸿轩农业土鸡蛋10枚425g",
+        "price": 16.90,
+        "unit": "10枚",
+        "marketPrice": 16.90,
+        "preSale": 0,
+        "labels": [
+          {
+            "goodsGuid": "72bd3cc7-3dcd-4287-8a3d-c03d5665feb9",
+            "labelName": "特惠",
+            "labelUrl": "",
+            "labelType": 0,
+            "createTime": 1505120955
+          },
+          {
+            "goodsGuid": "72bd3cc7-3dcd-4287-8a3d-c03d5665feb9",
+            "labelName": "",
+            "labelUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/fe224e83-c8e6-4d83-af62-acae8045153e.png",
+            "labelType": 1,
+            "createTime": 1505121186
+          }
+        ],
+        "stock": 590
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/e08c0df3-b4f6-4c8d-b3f7-a936095c01b4.jpg",
+        "type": "2",
+        "source": "baf10219-f1d5-4bef-80a3-e7c1a90bf1ea",
+        "pos": 5,
+        "$$hashKey": "object:17048",
+        "posDes": "童子鸡700g",
+        "goodsName": "童子鸡700g",
+        "price": 27.90,
+        "unit": "700g",
+        "marketPrice": 31.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 351
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/33ce3a5f-0be1-4cb9-bbed-bcff2f310c59.jpg",
+        "type": "2",
+        "source": "7286f331-f40a-4b34-abbf-588d4fd31e02",
+        "pos": 6,
+        "$$hashKey": "object:17103",
+        "posDes": "兴牧散养有机母鸡750g",
+        "goodsName": "兴牧散养有机母鸡750g",
+        "price": 99.00,
+        "unit": "750g",
+        "marketPrice": 149.00,
+        "preSale": 0,
+        "labels": [],
+        "stock": 89
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/7efb8f27-86b9-487f-86e6-e23ac2d63772.jpg",
+        "type": "2",
+        "source": "dd3cad52-05cc-43c5-b3f8-64d8fcc53284",
+        "pos": 7,
+        "$$hashKey": "object:17070",
+        "posDes": "崇明麻鸭1100g",
+        "goodsName": "崇明麻鸭1100g",
+        "price": 49.00,
+        "unit": "1100g",
+        "marketPrice": 55.00,
+        "preSale": 0,
+        "labels": [],
+        "stock": 95
+      }
+    ],
+    "templateType": "13",
+    "$$hashKey": "object:17031",
+    "sortIndex": 35,
+    "sortIndexDes": "禽蛋"
+  },
+  {
+    "items": [
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/a0053bde-84e2-4b7c-a079-d5d557ae9291.jpg",
+        "type": "1",
+        "source": "http://wmall.wochu.cn/h5/activityTemplate/html/activityPage.html?activityId=114",
+        "pos": 1,
+        "$$hashKey": "object:6908",
+        "posDes": "水产专场",
+        "goodsName": ""
+      }
+    ],
+    "templateType": "4",
+    "$$hashKey": "object:6892",
+    "sortIndex": 36,
+    "sortIndexDes": "水产专区"
+  },
+  {
+    "items": [
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/3f760730-d05e-45eb-b18b-6ee73817eae9.jpg",
+        "type": "2",
+        "source": "f03f6c19-e7a2-4f56-b586-00f1f56780c5",
+        "pos": 1,
+        "$$hashKey": "object:35208",
+        "goodsName": "越南进口黑虎虾大草虾400g（18-20）",
+        "posDes": "越南进口黑虎虾大草虾400g（18-20）",
+        "price": 59.00,
+        "unit": "400g",
+        "marketPrice": 79.00,
+        "preSale": 0,
+        "labels": [],
+        "stock": 134
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/a65de354-6b69-4955-8d75-141d7212c031.jpg",
+        "type": "2",
+        "source": "82559776-3474-47c9-8297-97bbb7474aac",
+        "pos": 2,
+        "$$hashKey": "object:6901",
+        "posDes": "泰国进口河虾仁150g（71-90）",
+        "goodsName": "泰国进口河虾仁150g（71-90）",
+        "price": 39.00,
+        "unit": "150g",
+        "marketPrice": 49.00,
+        "preSale": 0,
+        "labels": [],
+        "stock": 224
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/4781ac19-2ea2-456a-9637-8a2a7f85abbc.jpg",
+        "type": "2",
+        "source": "1c4ca284-3638-4fb5-b54c-3411315ce6ab",
+        "pos": 3,
+        "$$hashKey": "object:3358",
+        "posDes": "舟山野生梭子蟹块（切割蟹）454g",
+        "goodsName": "舟山野生梭子蟹块（切割蟹）454g",
+        "price": 18.00,
+        "unit": "454g",
+        "marketPrice": 25.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 636
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/39b3ae45-8375-4a38-be9f-1ebc437f371b.jpg",
+        "type": "2",
+        "source": "0c9bf0aa-245a-4055-bfa8-e78fdd3c319b",
+        "pos": 4,
+        "$$hashKey": "object:15210",
+        "posDes": "美田屋芥末章鱼100g",
+        "goodsName": "美田屋芥末章鱼100g",
+        "price": 9.90,
+        "unit": "100g",
+        "marketPrice": 19.00,
+        "preSale": 0,
+        "labels": [],
+        "stock": 463
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/7f13e95a-87c0-4cc7-a63b-8bc2752a7457.jpg",
+        "type": "2",
+        "source": "f84e7477-56b2-444a-8739-2369b6ad1c06",
+        "pos": 5,
+        "$$hashKey": "object:6881",
+        "posDes": "海牡蛎肉（生蚝肉）200g",
+        "goodsName": "海牡蛎肉（生蚝肉）200g",
+        "price": 14.90,
+        "unit": "200g",
+        "marketPrice": 19.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 292
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/ac43a3e5-9256-4eab-8acd-17f1ce51371d.jpg",
+        "type": "2",
+        "source": "10be4fd1-84ba-4e5a-9802-c8aef63aceba",
+        "pos": 6,
+        "$$hashKey": "object:3368",
+        "posDes": "舟山野生小黄鱼（7—8条）300g",
+        "goodsName": "舟山野生小黄鱼（7—8条）300g",
+        "price": 13.50,
+        "unit": "300g",
+        "marketPrice": 19.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 362
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/965b85c9-5cab-4109-98b5-67afe983b33f.jpg",
+        "type": "2",
+        "source": "aa4bd90b-262b-4029-9e6b-0dd398261e68",
+        "pos": 7,
+        "$$hashKey": "object:6891",
+        "posDes": "舟山野生冰冻带鱼段（3-5两/条）450g",
+        "goodsName": "舟山野生冰冻带鱼段（3-5两/条）450g",
+        "price": 30.00,
+        "unit": "450g",
+        "marketPrice": 42.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 49
+      }
+    ],
+    "templateType": "13",
+    "$$hashKey": "object:15157",
+    "sortIndex": 37,
+    "sortIndexDes": "水产专区货架"
+  },
+  {
+    "items": [
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/eb8b2da3-0088-444b-a69d-23e1ad2bca20.jpg",
+        "type": "1",
+        "source": "http://wmall.wochu.cn/h5/activityTemplate/html/activityPage.html?activityId=119",
+        "pos": 1,
+        "$$hashKey": "object:15223",
+        "posDes": "乳饮西点",
+        "goodsName": ""
+      }
+    ],
+    "templateType": "4",
+    "$$hashKey": "object:15166",
+    "sortIndex": 38,
+    "sortIndexDes": "乳饮西点"
+  },
+  {
+    "items": [
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/d8f3b21b-a627-4e45-8ef3-09b8d2748d10.jpg",
+        "type": "2",
+        "source": "483e1fe2-0a6a-4273-b4ec-689dc80c23c3",
+        "pos": 1,
+        "$$hashKey": "object:3468",
+        "posDes": "新疆牛奶天润酸奶低温浓缩 青柠味180gx12袋/箱",
+        "goodsName": "新疆牛奶天润酸奶低温浓缩 青柠味180gx12袋/箱",
+        "price": 49.00,
+        "unit": "12包",
+        "marketPrice": 75.00,
+        "preSale": 0,
+        "labels": [
+          {
+            "goodsGuid": "483e1fe2-0a6a-4273-b4ec-689dc80c23c3",
+            "labelName": "特惠",
+            "labelUrl": "",
+            "labelType": 0,
+            "createTime": 1505271891
+          },
+          {
+            "goodsGuid": "483e1fe2-0a6a-4273-b4ec-689dc80c23c3",
+            "labelName": "",
+            "labelUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/63ea8a6d-b1fd-4f67-818d-56548fc80bce.png",
+            "labelType": 1,
+            "createTime": 1505271919
+          }
+        ],
+        "stock": 31
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/87e827a8-3a12-4f73-a3d0-b8e224667900.jpg",
+        "type": "2",
+        "source": "e7f68580-c0fd-4709-89e4-4a5a0e7e2dba",
+        "pos": 2,
+        "$$hashKey": "object:6938",
+        "posDes": "养乐多100g装5瓶组",
+        "goodsName": "养乐多100g装5瓶组",
+        "price": 11.00,
+        "unit": "500g",
+        "marketPrice": 13.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 12
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/e353693b-f3e6-4029-a3b4-4c5ec0aaad70.jpg",
+        "type": "2",
+        "source": "80f19d98-d27e-4f9e-94cc-5757d6ef7e39",
+        "pos": 3,
+        "$$hashKey": "object:6928",
+        "posDes": "巴黎水原味330ml",
+        "goodsName": "巴黎水原味330ml",
+        "price": 8.50,
+        "unit": "330ML",
+        "marketPrice": 10.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 635
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/6e96bafd-0a50-43fb-a402-cc6a49d2c897.jpg",
+        "type": "2",
+        "source": "b91b40b3-0661-443b-b1b6-b3f4c819e532",
+        "pos": 4,
+        "$$hashKey": "object:27928",
+        "posDes": "杏花楼酒酿360G",
+        "goodsName": "杏花楼酒酿360G",
+        "price": 9.90,
+        "unit": "360g",
+        "marketPrice": 10.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 204
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/97dcf2d9-e4eb-4621-a424-026f14a95ddf.jpg",
+        "type": "2",
+        "source": "6ec842a0-804e-4f88-98b2-bc7b766a69d3",
+        "pos": 5,
+        "$$hashKey": "object:35313",
+        "goodsName": "明治醇壹950ml",
+        "posDes": "明治醇壹950ml",
+        "price": 14.90,
+        "unit": "950ml",
+        "marketPrice": 21.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 179
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/23b9c2d2-edfa-4712-8a20-2c5c3bf1e71f.jpg",
+        "type": "2",
+        "source": "6ad7250e-dad0-4cd3-bb46-90e058cbdaa5",
+        "pos": 6,
+        "$$hashKey": "object:35297",
+        "goodsName": "MR.SHIBA柴先生 北海道吐司250g（5片）",
+        "posDes": "MR.SHIBA柴先生 北海道吐司250g（5片）",
+        "price": 17.00,
+        "unit": "250g",
+        "marketPrice": 18.00,
+        "preSale": 0,
+        "labels": [],
+        "stock": 13
+      }
+    ],
+    "templateType": "13",
+    "$$hashKey": "object:27915",
+    "sortIndex": 39,
+    "sortIndexDes": "乳饮西点货架"
+  },
+  {
+    "items": [
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/28800fbb-8d62-46aa-bd2c-dbef196362c2.jpg",
+        "type": "1",
+        "source": "http://wmall.wochu.cn/h5/activityTemplate/html/activityPage.html?activityId=291",
+        "pos": 1,
+        "$$hashKey": "object:4985",
+        "goodsName": "",
+        "posDes": "点心速食"
+      }
+    ],
+    "templateType": "4",
+    "$$hashKey": "object:4950",
+    "sortIndex": 40,
+    "sortIndexDes": "点心速食"
+  },
+  {
+    "items": [
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/2edd7c1d-e2a3-4da3-a2cf-15c6ad45b94a.jpg",
+        "type": "2",
+        "source": "a58e941b-71c9-4166-a525-7a37d1448b6f",
+        "pos": 1,
+        "$$hashKey": "object:35481",
+        "goodsName": "米兰虾饼300g",
+        "posDes": "米兰虾饼300g",
+        "price": 9.90,
+        "unit": "300g",
+        "marketPrice": 15.80,
+        "preSale": 0,
+        "labels": [],
+        "stock": 352
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/261d4a1b-0fea-4cfc-ae08-c419bcf94f0f.jpg",
+        "type": "2",
+        "source": "2feb102c-6530-4d2c-8664-d1798f0b0ebc",
+        "pos": 2,
+        "$$hashKey": "object:5022",
+        "goodsName": "凡凡屋生拉面120g",
+        "posDes": "凡凡屋生拉面120g",
+        "price": 2.50,
+        "unit": "120g",
+        "marketPrice": 3.00,
+        "preSale": 0,
+        "labels": [],
+        "stock": 46
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/bbd5a0d2-cf14-4443-a871-f2189cd516c0.jpg",
+        "type": "2",
+        "source": "45f08988-1f1b-47d6-898d-f1eba0892012",
+        "pos": 3,
+        "$$hashKey": "object:5035",
+        "goodsName": "峰仔白糖桂花糕300g",
+        "posDes": "峰仔白糖桂花糕300g",
+        "price": 9.90,
+        "unit": "300g",
+        "marketPrice": 12.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 11
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/91dc6b78-a4f5-4861-a265-45144c905f39.jpg",
+        "type": "2",
+        "source": "0768c66a-4775-41b0-9524-026503b18086",
+        "pos": 4,
+        "$$hashKey": "object:5061",
+        "goodsName": "咸蛋黄夹心年糕200g",
+        "posDes": "咸蛋黄夹心年糕200g",
+        "price": 10.90,
+        "unit": "200g",
+        "marketPrice": 15.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 1547
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/7e412d69-e140-4334-844d-9f9b1777f2b9.jpg",
+        "type": "2",
+        "source": "11af52be-2c8d-4f4e-9ba1-9a830ae3841d",
+        "pos": 5,
+        "$$hashKey": "object:5074",
+        "goodsName": "红糖糕360g",
+        "posDes": "红糖糕360g",
+        "price": 12.80,
+        "unit": "360g",
+        "marketPrice": 16.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 340
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/49149f8a-29b1-4c08-b0a9-ece7973faf6a.jpg",
+        "type": "2",
+        "source": "2c6f09b2-ae53-4800-bb9c-06a9f33f10a8",
+        "pos": 6,
+        "$$hashKey": "object:5048",
+        "goodsName": "盘点美味白切猪肚200g",
+        "posDes": "盘点美味白切猪肚200g",
+        "price": 32.90,
+        "unit": "200g",
+        "marketPrice": 36.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 120
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/b3098578-39eb-40a0-a151-d321dfd88646.jpg",
+        "type": "2",
+        "source": "79b092c4-254c-407e-ab3a-70de2964bb0e",
+        "pos": 7,
+        "$$hashKey": "object:5006",
+        "goodsName": "功德林椰皇金沙净素月饼80g",
+        "posDes": "功德林椰皇金沙净素月饼80g",
+        "price": 8.80,
+        "unit": "80g",
+        "marketPrice": 9.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 217
+      }
+    ],
+    "templateType": "13",
+    "$$hashKey": "object:4960",
+    "sortIndex": 41,
+    "sortIndexDes": "点心速食"
+  },
+  {
+    "items": [
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/28b53062-db83-483c-b8ad-1c93aa71e362.jpg",
+        "type": "1",
+        "source": "http://wmall.wochu.cn/h5/activityTemplate/html/activityPage.html?activityId=120",
+        "pos": 1,
+        "$$hashKey": "object:19336",
+        "posDes": "粮油副食",
+        "goodsName": ""
+      }
+    ],
+    "templateType": "4",
+    "$$hashKey": "object:19323",
+    "sortIndex": 42,
+    "sortIndexDes": "粮油副食"
+  },
+  {
+    "items": [
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/2afe4afe-b545-4539-a61f-c2c48a200688.jpg",
+        "type": "2",
+        "source": "0558fee7-83d0-42f3-a9a0-f49780b79161",
+        "pos": 1,
+        "$$hashKey": "object:3316",
+        "posDes": "粮管家乳玉香大米2500g",
+        "goodsName": "粮管家乳玉香大米2500g",
+        "price": 19.90,
+        "unit": "2500g",
+        "marketPrice": 29.90,
+        "preSale": 0,
+        "labels": [
+          {
+            "goodsGuid": "0558fee7-83d0-42f3-a9a0-f49780b79161",
+            "labelName": "特惠",
+            "labelUrl": "",
+            "labelType": 0,
+            "createTime": 1503042735
+          },
+          {
+            "goodsGuid": "0558fee7-83d0-42f3-a9a0-f49780b79161",
+            "labelName": "",
+            "labelUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/b6ec7995-3d90-4212-9cb3-07a47b0d9d8e.png",
+            "labelType": 1,
+            "createTime": 1502973923
+          }
+        ],
+        "stock": 85
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/f6533e5f-46c4-41f8-ac92-bab17b1b9a80.jpg",
+        "type": "2",
+        "source": "6208ab41-043c-45e4-93e2-174afa30c1e5",
+        "pos": 2,
+        "$$hashKey": "object:3523",
+        "posDes": "温汤硒品富硒红米1000g",
+        "goodsName": "温汤硒品富硒红米1000g",
+        "price": 34.90,
+        "unit": "1000g",
+        "marketPrice": 39.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 35
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/181f6960-73cd-483e-804d-0f8d9364a801.jpg",
+        "type": "2",
+        "source": "8be3b732-5793-437b-ad2d-0b35075c9dfb",
+        "pos": 3,
+        "$$hashKey": "object:3533",
+        "posDes": "温汤硒品富硒养生米1000g",
+        "goodsName": "温汤硒品富硒养生米1000g",
+        "price": 34.90,
+        "unit": "1000g",
+        "marketPrice": 39.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 35
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/a7d51f9e-3205-48d8-82c5-d704402bc2cb.jpg",
+        "type": "2",
+        "source": "0234a6d4-87e0-4ad3-9567-e37fb05bc821",
+        "pos": 4,
+        "$$hashKey": "object:6971",
+        "posDes": "融氏橄榄玉米油2.8L/瓶",
+        "goodsName": "融氏橄榄玉米油2.8L/瓶",
+        "price": 69.90,
+        "unit": "2.8L",
+        "marketPrice": 75.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 25
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/9ffbb18a-1e4e-44a0-95a0-be6159bd4457.jpg",
+        "type": "2",
+        "source": "b6da64e3-da9c-422e-842c-cf7fdf01d5a8",
+        "pos": 5,
+        "$$hashKey": "object:6981",
+        "posDes": "咪你口袋藜麦200g",
+        "goodsName": "咪你口袋藜麦200g",
+        "price": 26.00,
+        "unit": "200g",
+        "marketPrice": 29.00,
+        "preSale": 0,
+        "labels": [],
+        "stock": 52
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/5e0686fe-8bbc-48d6-a2cd-548b2c285742.jpg",
+        "type": "2",
+        "source": "e4e7117f-aeb9-4641-9c29-3324d5667587",
+        "pos": 6,
+        "$$hashKey": "object:6991",
+        "posDes": "精制剁椒（青娘子）210g",
+        "goodsName": "精制剁椒（青娘子）210g",
+        "price": 8.50,
+        "unit": "210g",
+        "marketPrice": 9.80,
+        "preSale": 0,
+        "labels": [],
+        "stock": 204
+      },
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/db824534-10b6-4034-b383-a290352175f6.jpg",
+        "type": "2",
+        "source": "4532f969-eadd-4b65-b18f-218a8c3750a7",
+        "pos": 7,
+        "$$hashKey": "object:35545",
+        "goodsName": "乌江涪陵榨菜鲜脆菜丝88g",
+        "posDes": "乌江涪陵榨菜鲜脆菜丝88g",
+        "price": 2.30,
+        "unit": "88g",
+        "marketPrice": 2.90,
+        "preSale": 0,
+        "labels": [],
+        "stock": 158
+      }
+    ],
+    "templateType": "13",
+    "$$hashKey": "object:3300",
+    "sortIndex": 43,
+    "sortIndexDes": "粮油副食货架"
+  },
+  {
+    "items": [
+      {
+        "imgUrl": "https://wochu.oss-cn-hangzhou.aliyuncs.com/upload/68bcb4e8-31af-40fc-893e-7cd5aa412f79.jpg",
+        "type": "1",
+        "source": "http://wmall.wochu.cn/h5/activityTemplate/html/activityPage.html?activityId=176",
+        "pos": 1,
+        "$$hashKey": "object:1814",
+        "posDes": "48小时保质保价",
+        "goodsName": ""
+      }
+    ],
+    "templateType": "4",
+    "$$hashKey": "object:1798",
+    "sortIndex": 44,
+    "sortIndexDes": "品控介绍"
+  }
+]

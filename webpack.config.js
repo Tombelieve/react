@@ -10,15 +10,20 @@ module.exports = {
     },
     devServer:{
         proxy:{
-            '/list':{
-                target:'https://m.toutiao.com',
+//          '/list':{
+//              target:'https://m.toutiao.com',
+//              changeOrigin:true,
+//              secure:false
+//          },
+//          '/api':{
+//              target:'https://m.toutiao.com',
+//              changeOrigin:true,
+//              pathRewrite: {'^/api' : ''}
+//          },
+            '/carousel':{
+            	target:'http://api5.wochu.cn',
                 changeOrigin:true,
-                secure:false
-            },
-            '/api':{
-                target:'https://m.toutiao.com',
-                changeOrigin:true,
-                pathRewrite: {'^/api' : ''}
+                pathRewrite: {'^/carousel' : ''}
             }
         },
 		contentBase:'./build',//服务器要在哪个地方开启，默认是在webpack.config.js的路径中
@@ -78,7 +83,8 @@ module.exports = {
                     presets: ['es2015','react']
                  }
             }
-
-        ]
+       
+	
+	        ]
     }
 }

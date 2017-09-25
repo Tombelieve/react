@@ -1,6 +1,8 @@
-
-
+import Topnav from './Topnav_y'
+import ImageList from './ImageList_y'
+import GoodCarousel from './GoodCarousel_y'
 import NavsComponent from './NavsComponent'
+import RootComponent from "../lx/RootComponent"
 class IndexComponent extends React.Component {   
     constructor(props,context){
         super(props,context)
@@ -11,11 +13,15 @@ class IndexComponent extends React.Component {
     }
     
     render(){
-        console.log(this) 
+       
         return (
             <div>
-              IndexComponent
-              <NavsComponent/>
+              <RootComponent/>
+              <Topnav/>
+              <ImageList/>
+              <GoodCarousel/>
+               <NavsComponent/>
+             
             </div>
         )
     }

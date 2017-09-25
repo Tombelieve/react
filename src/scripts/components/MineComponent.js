@@ -1,5 +1,6 @@
 
 import NavsComponent from './NavsComponent'
+import RootComponent from '../lxx/RootComponent'
 
 class MineComponent extends React.Component {   
     constructor(props,context){
@@ -11,10 +12,9 @@ class MineComponent extends React.Component {
     }
   
     render(){
-        console.log(this) 
         return (
             <div className="full-height">
-               MineComponent
+               <RootComponent/>
                <NavsComponent active="/mine"/>
             </div>
         )

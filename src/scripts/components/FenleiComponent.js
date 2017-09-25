@@ -1,6 +1,7 @@
 
 
 import NavsComponent from './NavsComponent'
+import Classify_w from '../wh/Classify_w'
 
 class FenleiComponent extends React.Component {   
     constructor(props,context){
@@ -12,10 +13,9 @@ class FenleiComponent extends React.Component {
     }
     
     render(){
-        console.log(this) 
         return (
             <div className="full-height">
-               FenleiComponent
+               <Classify_w/>
                <NavsComponent active="/fenlei"/>
             </div>
         )

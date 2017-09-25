@@ -1,0 +1,80 @@
+.mine_header_L{
+    height:2.52rem;width:100%;background:red;
+    background:url("/img/header_bg@3x.png") no-repeat left top;
+    background-size:100% 100%;position:relative;
+    .mine_header_icon_L{
+        height:0.84rem;width:100%;position:absolute;top:0.45rem;left:0px;display:flex;flex-direction:column;
+        img{
+            height:0.54rem;width:0.54rem;
+            position:absolute;top:0px;left:1.6rem;
+        }
+        p{
+            font-size:12px;text-align:center;margin-top:0.66rem;color:white;
+        }
+    }
+    .mine_header_balance_L{
+        height:1.18rem;width:3.4rem;background:white;border-radius:0.24rem;position:absolute;top:1.5rem;left:0.18rem;
+        .mine_header_ul_L{
+            height:0.38rem;width:100%;margin-top:0.2rem;display:flex;
+            li{
+                flex:1;
+                a{
+                    display:block;width:100%;height:100%;
+                    div{
+                        height:0.18rem;width:100%;color:green;font-size:14px;text-align:center;
+                    }
+                    p{
+                        font-size:14px;color:#999;text-align:center;
+                    }
+
+                }
+            }
+            li:nth-child(1){
+                border-right:1px solid #ccc;
+            }
+        }
+        .mine_header_div_L{
+            height:0.45rem;margin-top:0.15rem;width:100%;border-bottom-left-radius: .24rem;
+            border-bottom-right-radius: .24rem;background:#428b0e;position:relative;margin-bottom:0.1rem;
+            img{
+                height:0.1rem;position:absolute;top:-0.1rem;left:0.72rem;display:block;
+            }
+            ul{
+                display:flex;height:100%;
+                li{width:50%;height:100%;
+                    a{
+                        width:100%;height:100%;display:block;
+                            img{
+                                height:0.18rem;position:absolute;
+                            }
+                            p{
+                                font-size:14px;color:white;position:absolute;
+                            }
+                    }
+                }
+                li:nth-child(1){
+                    a{
+                        position:relative;
+                    }
+                    a img{
+                        left:0.2rem;top:0.14rem;
+                    }
+                    a p{
+                        left:0.4rem;top:0.14rem;
+                    }
+                }
+                li:nth-child(2){
+                    a{
+                        position:relative;
+                    }
+                    a  img{
+                       left:1.3rem;top:0.14rem;display:block;
+                    }
+                    a p{
+                        left:0.6rem;top:0.14rem;
+                    }
+                }
+            }
+        }
+    }
+}

@@ -26,10 +26,6 @@ class NewsComponent extends React.Component {
                 <span className="iconfont icon-cart"></span>
                     <span>购物车</span>
                 </Link>
-                <Link to="/news" className={active=='/news'?'active':''}>
-                    <span className="iconfont icon-xinxi"></span>
-                    <span>消息</span>
-                </Link>
                 <Link to="/mine" className={active=='/mine'?'active':''}>
                     <span className="iconfont icon-wode"></span>
                     <span>我的</span>

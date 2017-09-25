@@ -1,5 +1,8 @@
 
 require("./styles/app.scss")
+import $ from "./scripts/wh/jquery.min"
+
+
 
 ///////////////////////
 // var React = require("react")
@@ -11,8 +14,8 @@ import {Router,Route,hashHistory,IndexRedirect,IndexRoute} from 'react-router'
 import IndexComponent from './scripts/components/IndexComponent'
 import FenleiComponent from './scripts/components/FenleiComponent'
 import CartComponent from './scripts/components/CartComponent'
-import NewsComponent from './scripts/components/NewsComponent'
 import MineComponent from './scripts/components/MineComponent'
+
 
 // {/* <IndexRedirect to="/main"/> */}
 ReactDOM.render(
@@ -22,7 +25,6 @@ ReactDOM.render(
             <Route path="/index" component={IndexComponent}></Route>
             <Route path="/fenlei" component={FenleiComponent}></Route>
             <Route path="/cart" component={CartComponent}></Route>
-            <Route path="/news" component={NewsComponent}></Route>
             <Route path="/mine" component={MineComponent}></Route>
             <Route path="*" component={IndexComponent}></Route>
         </Route>
